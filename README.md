@@ -44,6 +44,42 @@
         <li>Hindi (hi)</li>
     </ul>
 
+   <table border="1" width="500" cellspacing="0" cellpadding="8">
+  <tr>
+    <th>Plain Form</th>
+    <th>Input Form</th>
+    <th>Prediction Result</th>
+  </tr>
+  <tr>
+    <td>
+      <img 
+        width="1774" height="844" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/f0ce6b9d-5741-4ca9-b53a-29e3b0a3d12a"
+        alt="Input Form"
+        width="240"
+      />![Uploading Screenshot (68).png…]()
+
+</td>
+    <td>
+      <img 
+        width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2add93ac-7837-4562-bec7-9050c2534195"
+        alt="Prediction Result"
+        width="240"
+      />![Uploading Screenshot (69).png…]()
+
+ </td>
+    <td>
+      <img 
+        width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2add93ac-7837-4562-bec7-9050c2534195"
+        alt="Prediction Result"
+        width="240"
+      />![Uploading Screenshot (70).png…]()
+
+    </td>
+  </tr>
+</table>
+ 
+    
+
   <h2>Project Structure</h2>
     <pre><code>
 language_translator/

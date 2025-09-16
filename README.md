@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Multi-Language Translator - README</title>
-</head>
+
 <body>
     <h1>🌐 Multi-Language Translator</h1>
 

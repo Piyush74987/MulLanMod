@@ -48,33 +48,32 @@
   <tr>
     <th>Plain Form</th>
     <th>Input Form</th>
-    <th>Prediction Result</th>
+    <th>Output form</th>
   </tr>
   <tr>
     <td>
       <img 
         width="1774" height="844" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/f0ce6b9d-5741-4ca9-b53a-29e3b0a3d12a"
-        alt="Input Form"
+        alt="Plain Form"
         width="240"
-      />![Uploading Screenshot (68).png…]()
+      />
 
 </td>
     <td>
       <img 
-        width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2add93ac-7837-4562-bec7-9050c2534195"
-        alt="Prediction Result"
+      width="1658" height="800" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/9b12a48a-c341-4e1b-b086-b5c584689627"
+        alt="Input Form"
         width="240"
-      />![Uploading Screenshot (69).png…]()
+      />
 
  </td>
     <td>
       <img 
-        width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2add93ac-7837-4562-bec7-9050c2534195"
-        alt="Prediction Result"
+        width="1746" height="796" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/cd939a18-9fb7-4afa-8c1f-1645e23d55f7"
+alt="Output Form"
         width="240"
-      />![Uploading Screenshot (70).png…]()
-
-    </td>
+      />
+ </td>
   </tr>
 </table>
  
